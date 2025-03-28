@@ -6,8 +6,7 @@ This project aims to analyze cricket statistics using Google Cloud services and 
 
 Cricket is a popular sport with a vast amount of data generated from matches, players, teams, and tournaments. This project utilizes Google Cloud services to ingest, process, and analyze cricket statistics, providing valuable insights into player performance, team dynamics, and match outcomes.
 ## Services used in architecture
-![Cric Buzz API](https://github.com/lakkawardhananjay/data-analyis-with-looker/assets/92675267/c0b9d261-3d58-488e-acb1-4522b1010f4d)
-
+![Image](https://github.com/user-attachments/assets/b523b286-f03a-404a-854c-6e9c9543116c)
 ## GCP Services Used
 
 ### 1. Cloud Storage
